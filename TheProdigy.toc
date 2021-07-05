@@ -1,0 +1,21 @@
+## Interface: 90100
+## Title: TheProdigy
+
+## Notes: The Prodigy Theme.
+## Notes-deDE: The Prodigy Theme.
+## Notes-esMX: The Prodigy Theme.
+## Notes-esES: The Prodigy Theme.
+## Notes-frFR: The Prodigy Theme.
+## Notes-itIT: The Prodigy Theme.
+## Notes-ruRU: The Prodigy Theme.
+## Notes-zhTW: The Prodigy Theme.
+
+## Version: 9.1.0
+## Author: Isa1997
+## Dependencies: Masque
+
+## X-Website:
+## X-Category: Interface Enhancements
+## X-Credits: StormFX
+
+TheProdigy.lua
